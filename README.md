@@ -1,6 +1,12 @@
 # Gilded
 A datapack/resource pack that adds more golden food to Minecraft. It also flips the Glistening Melon Slice texture so it matches the notmal melon slice.
 
+
+## Datapack Version
+All files are contained in one `.zip` file. Copy the `Gilded_v1.0.0_<MC_version>_Data_Resource.zip` into both the `datapacks` folder for your world, and your `resourcepacks` folder.
+
+## Give Gommands
+If you want to cheat in the custom items, use the give functions. `/function give:<item>` Or, to get one of every golden food item, (including vanilla) run, `/function give:all_golden_food`.
 ## All Added Items:
 ### Golden Steak
 ![Golden Steak Recipe](https://cdn.modrinth.com/data/jc0Q0auS/images/c3c4f508740fff0723a293f57bff3afd834bb8cf.png)
