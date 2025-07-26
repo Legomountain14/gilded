@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cooked_rabbit",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "\"Golden Cooked Rabbit\"",
+                "minecraft:custom_model_data": 139682,
+                "minecraft:food": {
+                  "nutrition": 8,
+                  "saturation": 8,
+                  "can_always_eat": false
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_nugget"
+    },
+    "X": {
+      "item": "minecraft:cooked_mutton"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:cooked_mutton",
+    "components": {
+      "minecraft:item_name": "\"Golden Cooked Mutton\"",
+      "minecraft:custom_model_data": 460128,
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 16.4,
+        "can_always_eat": false
+      }
+    },
+    "count": 1
+  }
+}

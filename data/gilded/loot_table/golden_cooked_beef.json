@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cooked_beef",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "\"Golden Steak\"",
+                "minecraft:custom_model_data": 748425,
+                "minecraft:food": {
+                  "nutrition": 10,
+                  "saturation": 14.8,
+                  "can_always_eat": false
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
