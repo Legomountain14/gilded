@@ -1,5 +1,5 @@
 # Gilded
-A datapack/resource pack that adds more golden food to Minecraft. It also flips the Glistening Melon Slice texture so it matches the notmal melon slice.
+A datapack/resource pack that adds more golden food to Minecraft. It also flips the Glistening Melon Slice texture so it matches the normal melon slice.
 
 
 ## Datapack Version
