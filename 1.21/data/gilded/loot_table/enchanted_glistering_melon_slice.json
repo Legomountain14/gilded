@@ -1,0 +1,42 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:glistering_melon_slice",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:food": {
+                  "nutrition": 6,
+                  "saturation": 8,
+                  "can_always_eat": true,
+                  "effects": [
+                    {
+                      "effect": {
+                        "id": "minecraft:strength",
+                        "duration": 80
+                      }
+                    },
+                    {
+                      "effect": {
+                        "id": "minecraft:invisibility",
+                        "duration": 80
+                      }
+                    }
+                  ]
+                },
+                "minecraft:item_name": "\"Enchanted Glistering Melon Slice\"",
+                "minecraft:enchantment_glint_override": true,
+                "minecraft:rarity": "rare"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

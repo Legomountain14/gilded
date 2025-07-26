@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:gold_nugget",
+    "X": "minecraft:cooked_cod"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "components": {
+      "minecraft:item_name": "\"Golden Cooked Cod\"",
+      "minecraft:custom_model_data": {
+        "strings": [
+          "golden"
+        ]
+      },
+      "minecraft:food": {
+        "nutrition": 8,
+        "saturation": 8,
+        "can_always_eat": false
+      }
+    },
+    "count": 1,
+    "id": "minecraft:cooked_cod"
+  }
+}

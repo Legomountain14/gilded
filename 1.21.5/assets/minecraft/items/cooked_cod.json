@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "golden",
+        "model": {
+          "type": "minecraft:model",
+          "model": "gilded:item/golden_cooked_cod"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/cooked_cod"
+    }
+  }
+}

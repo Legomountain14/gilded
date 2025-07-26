@@ -1,0 +1,48 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "minecraft:melon_slice"
+    },
+    "*": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "#*#"
+  ],
+  "result": {
+    "id": "minecraft:glistering_melon_slice",
+    "components": {
+      "minecraft:food": {
+        "nutrition": 6,
+        "saturation": 8,
+        "can_always_eat": true,
+        "effects": [
+          {
+            "effect": {
+              "id": "minecraft:strength",
+              "duration": 80
+            }
+          },
+          {
+            "effect": {
+              "id": "minecraft:invisibility",
+              "duration": 80
+            }
+          }
+        ]
+      },
+      "minecraft:item_name": "\"Enchanted Glistering Melon Slice\"",
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:rarity": "rare"
+    },
+    "count": 1
+  }
+}

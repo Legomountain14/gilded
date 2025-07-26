@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cooked_mutton",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": "\"Golden Cooked Mutton\"",
+                "minecraft:custom_model_data": 460128,
+                "minecraft:food": {
+                  "nutrition": 8,
+                  "saturation": 16.4,
+                  "can_always_eat": false
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
