@@ -1,6 +1,23 @@
 {
   "pack": {
-    "description": "Gilded",
-    "pack_format": 48
+    "description": {
+      "text": "Gilded ",
+      "extra": [
+        {
+          "text": "-",
+          "extra": [
+            {
+              "text": " More golden food!",
+              "color": "white"
+            }
+          ],
+          "color": "aqua",
+          "bold": false
+        }
+      ],
+      "color": "gold",
+      "bold": true
+    },
+    "pack_format": 81
   }
 }
