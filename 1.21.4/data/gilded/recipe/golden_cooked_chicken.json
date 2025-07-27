@@ -12,17 +12,13 @@
   ],
   "result": {
     "components": {
-      "minecraft:item_name": "\"Golden Cooked Chicken\"",
-      "minecraft:custom_model_data": {
-        "strings": [
-          "golden"
-        ]
-      },
-      "minecraft:food": {
-        "nutrition": 8,
-        "saturation": 9.2,
-        "can_always_eat": false
-      }
+                "minecraft:item_name": "\"Golden Cooked Chicken\"",
+                "minecraft:food": {
+                  "nutrition": 8,
+                  "saturation": 9.2,
+                  "can_always_eat": false
+                },
+                "minecraft:item_model": "gilded:golden_cooked_chicken"
     },
     "count": 1,
     "id": "minecraft:cooked_chicken"

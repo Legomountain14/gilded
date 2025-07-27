@@ -11,11 +11,6 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "\"Enchanted Golden Steak\"",
-                "minecraft:custom_model_data": {
-                  "strings": [
-                    "golden"
-                  ]
-                },
                 "minecraft:food": {
                   "nutrition": 10,
                   "saturation": 14.8,
@@ -39,7 +34,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "minecraft:item_model": "gilded:golden_cooked_beef"
               }
             }
           ]

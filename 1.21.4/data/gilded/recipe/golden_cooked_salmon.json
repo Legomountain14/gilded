@@ -12,17 +12,14 @@
   ],
   "result": {
     "components": {
-      "minecraft:item_name": "\"Golden Cooked Salmon\"",
-      "minecraft:custom_model_data": {
-        "strings": [
-          "golden"
-        ]
-      },
-      "minecraft:food": {
-        "nutrition": 8,
-        "saturation": 11.6,
-        "can_always_eat": false
-      }
+                "minecraft:item_name": "\"Golden Cooked Salmon\"",
+                "minecraft:food": {
+                  "nutrition": 8,
+                  "saturation": 11.6,
+                  "can_always_eat": false
+                },
+                "minecraft:item_model": "gilded:golden_cooked_salmon"
+
     },
     "count": 1,
     "id": "minecraft:cooked_salmon"

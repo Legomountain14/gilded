@@ -14,11 +14,6 @@
   "result": {
     "components": {
                 "minecraft:item_name": "\"Enchanted Golden Cooked Salmon\"",
-                "minecraft:custom_model_data": {
-                  "strings": [
-                    "golden"
-                  ]
-                },
                 "minecraft:food": {
                   "nutrition": 8,
                   "saturation": 11.6,
@@ -42,7 +37,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "minecraft:item_model": "gilded:golden_cooked_salmon"
     },
     "count": 1,
     "id": "minecraft:cooked_salmon"

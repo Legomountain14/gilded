@@ -12,17 +12,13 @@
   ],
   "result": {
     "components": {
-      "minecraft:item_name": "\"Golden Cooked Rabbit\"",
-      "minecraft:custom_model_data": {
-        "strings": [
-          "golden"
-        ]
-      },
-      "minecraft:food": {
-        "nutrition": 8,
-        "saturation": 8,
-        "can_always_eat": false
-      }
+                "minecraft:item_name": "\"Golden Cooked Rabbit\"",
+                "minecraft:food": {
+                  "nutrition": 8,
+                  "saturation": 8,
+                  "can_always_eat": false
+                },
+                "minecraft:item_model": "gilded:golden_cooked_rabbit"
     },
     "count": 1,
     "id": "minecraft:cooked_rabbit"
